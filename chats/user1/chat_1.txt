@@ -1,0 +1,8 @@
+Tú: Hola, ¿me podrías contar quién ganó el último partido de la Champions League?
+Bot: ¡Claro! El último partido de la Champions League se jugó el 10 de junio de 2023 entre el Manchester City y el Inter de Milán en Estambul.
+Tú: ¿Y cómo fue el partido? ¿Hubo alguna jugada interesante?
+Bot: Fue un partido muy reñido. Manchester City ganó 2-1, pero el Inter estuvo cerca de empatar. El gol de la victoria lo marcó Rodri en el minuto 68. Hubo una gran jugada de Kevin De Bruyne, que dio la asistencia para el primer gol.
+Tú: Suena emocionante. ¿De qué equipo se espera más para la próxima temporada?
+Bot: El Manchester City sigue siendo uno de los favoritos, pero el Real Madrid y el Bayern Munich también son muy fuertes. El mercado de fichajes siempre cambia mucho, así que será interesante ver cómo se refuerzan los equipos.
+Tú: Entonces, ¿crees que City repetirá el título?
+Bot: Es difícil decirlo, pero si mantienen su plantilla y siguen con el rendimiento que tuvieron en 2023, es probable que sigan siendo contendientes fuertes. Aunque la competencia siempre es feroz.
